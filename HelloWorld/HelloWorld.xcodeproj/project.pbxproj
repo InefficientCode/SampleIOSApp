@@ -156,6 +156,7 @@
 		F43DFBC619D540110000ABFF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = AppCoda;
 				TargetAttributes = {
@@ -405,6 +406,7 @@
 				F43DFBEF19D540110000ABFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F43DFBF019D540110000ABFF /* Build configuration list for PBXNativeTarget "HelloWorldTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +415,7 @@
 				F43DFBF219D540110000ABFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
